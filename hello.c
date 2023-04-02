@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("Shahadat Islam Shakil");
+    printf("Shahadat Shakil");
     return 0;
 }
